@@ -2,7 +2,13 @@
 
 We are **Team QPower** and this project was made as part of IBM's Creative challenge at QC Hack 2021.
 
+## Team Members 
 
+- [Syed Farhan Ahmad](https://www.linkedin.com/in/syedfarhanahmad/)
+- [Mohamed Yassine Ferjani](https://www.linkedin.com/in/med-yassine-ferjani/)
+- [Anush Krishna V](https://www.linkedin.com/in/anush-krishna-v-8270941a0/)
+- [Shaun Radgowski](https://www.linkedin.com/in/shaun-radgowski/)
+- [Chad Palmer](https://www.linkedin.com/in/chad-palmer-b51866195/)
 ## Project Idea
 
 We have implemented Quantum Steganography using qiskit in this project.   
