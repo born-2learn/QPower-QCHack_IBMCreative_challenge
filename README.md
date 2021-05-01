@@ -2,6 +2,16 @@
 
 We are **Team QPower** and this project was made as part of IBM's Creative challenge at QC Hack 2021.
 
+# QPower Team
+Syed Farhan Ahmad - A junior Undergrad from India and a Quantum Research Intern at University of California, Los Angeles. Syed Farhan is also the founder of QPower Research Community.
+
+Anush Krishna - An undergrad from PSG CAS and a Microsoft Student Ambassador for the Asia region. Anush is also a member of QPower Community and the winner of Qiskit challange at MacHacks 2021. Developed the web application to visualise the Quantum Steganography
+
+Shaun Radgowski - A senior undergrad at Yale and member of YQI (Yale Quantum Institute). Shaun published a redesign of QAOA's underlying cost function for Quantum ML as his senior thesis.
+
+Chad Palmer - A junior undergrad at Yale majoring in Mathematics and Computer Science. Chad is an avid programmer and has served as a TA for multiple Yale Computer Science classes.
+
+Mohamed Yassine Ferjani - A senior undergrad from Tunisia and co-founder of QTunisia quantum community, he is conducting wokshops and webinars on quantum computing. Mohamed is the winner of the Qiskit Global Hackathon. He is currently working on his senior thesis on quantum algorithms.
 
 ## Project Idea
 
